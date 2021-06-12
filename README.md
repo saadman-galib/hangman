@@ -1,3 +1,3 @@
 # hangman
 Build with python<br>
-**python basic project
+<h2>python basic project</h2>
