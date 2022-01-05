@@ -11,11 +11,7 @@
 
 ## Overview
 
-<div align="center">
-<img width="497px" height="331px" src="./images/README.png" alt="screenshot>
-</div>
-
-<!-- ![screenshot](./images/README.png) -->
+![screenshot](./images/README.png?style=centerme)
 
 ## Built With
 
