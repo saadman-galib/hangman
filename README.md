@@ -11,7 +11,7 @@
 
 ## Overview
 
-![screenshot](./images/README.png?style=centerme)
+![screenshot](./images/01.png)
 
 ## Built With
 
