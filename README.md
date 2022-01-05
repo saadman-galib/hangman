@@ -11,7 +11,7 @@
 
 ## Overview
 
-![screenshot](./images/01.png)
+![screenshot](./images/README.png)
 
 ## Built With
 
