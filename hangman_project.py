@@ -274,7 +274,7 @@ word_list = ['abruptly',
 
 
 chosen_word = random.choice(word_list)
-word_length = len(chosen_word)                                         
+word_length = len(chosen_word)
 # chosen_word
 # word_length
 
@@ -286,7 +286,7 @@ display = []
 
 for _ in range(word_length):
     display += "_"
-    
+
 
 
 end_of_game = False
@@ -307,9 +307,6 @@ while not end_of_game:
         if letter == guessed_letter:
             display[position] = letter
             # print("Matched")
-        else:
-            pass
-             # print("No match")
     # print(display)
     if guessed_letter not in chosen_word or guessed_letter == "":
         lives -= 1
